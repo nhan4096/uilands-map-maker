@@ -1,0 +1,13 @@
+(236, 28, 36);Sim City;16.33
+(6, 40, 6);Fist Province;9.49
+(255, 127, 39);Finger Province;4.98
+(184, 61, 186);Thalès Province;13.9
+(14, 209, 69);Dininisour Province;10.9
+(63, 72, 204);T7 City;7.43
+(255, 174, 200);Xitray City;8.95
+(185, 122, 86);Euler City;16.02
+(88, 88, 88);Tapeworms City;10.79
+(136, 0, 27);Will Wood City;16.25
+(0, 169, 243);Copycat Province;7.39
+(255, 242, 0);Copybetch Province;3.66
+(255, 0, 119);SpeedyMcTrash Province;8.65
